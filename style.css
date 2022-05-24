@@ -1,9 +1,9 @@
 .container{
     height: 950px;
-   
-    background-color: silver;
-    margin: 0px auto;
-    padding: 20px;
+    width: auto;
+    background-color:rgb(206, 234, 250);
+    margin:  auto;
+    padding: 10px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -14,8 +14,7 @@
 .sub-cont {
     
     background-color: aliceblue;
-    margin: 0px auto;
-    padding: 20px;
+  
 }
 .rows {
     width: 610px;
